@@ -1,0 +1,210 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+table.print-grid-12 {
+    font-size:12px;
+}
+
+table.print-grid-12 th {
+    text-align: left;
+    font-weight: bold;
+    border: 1px solid #000;
+    border-left: none; 
+}
+
+table.print-grid-12 th.first {
+    border-left: 1px solid #000;
+}
+
+table.print-grid-12 td {
+    text-align: left;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000; 
+}
+
+table.print-grid-12 td.first {
+    border-left: 1px solid #000;
+}
+
+.group_title {
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px 0px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.report-header-21 {
+    font-size: 21px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px 0px;
+}
+
+.report-header-18 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px 0px;
+}
+
+.report-header-15 {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px 0px;
+}
+
+.report-header-12 {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px 0px;
+}
+
+table.print-grid-13 {
+    font-size:13px;
+}
+
+table.print-grid-13 th {
+    text-align: left;
+    font-weight: bold;
+    padding: 6px 5px 6px 5px;
+    border: 1px solid #000;
+    border-left: none;  
+}
+
+table.print-grid-13 th.first {
+    border-left: 1px solid #000;
+}
+
+table.print-grid-13 td {
+    text-align: left;
+    padding: 6px 5px 6px 5px;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;  
+}
+
+table.print-grid-13 td.data {
+    text-align: center;
+}
+
+table.print-grid-13 td.first {
+    border-left: 1px solid #000;
+}
+
+table.print-grid-11 {
+    font-size:11px;
+}
+
+table.print-grid-11 th {
+    text-align: left;
+    font-weight: bold;
+    padding: 3px 5px 3px 5px;
+    border: 1px solid #000;
+    border-left: none;
+    text-align: center; 
+}
+
+table.print-grid-11 th.first {
+    border-left: 1px solid #000;
+}
+
+table.print-grid-11 td {
+    text-align: left;
+    padding: 3px 5px 3px 5px;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;  
+}
+
+table.print-grid-11 td.data {
+    text-align: center;
+}
+
+table.print-grid-11 td.first {
+    border-left: 1px solid #000;
+}
+
+table td.order {
+    text-align: center;
+}
+
+table td.number {
+    text-align: right;
+}
+
+div.a4-portrait {
+    width: 204mm;
+    margin: 0 auto;
+}
+
+div.a4-landscape {
+    width: 291mm;
+    margin: 0 auto;
+}
+
+.form-item {
+    display: inline;
+    margin-top: 0;
+    padding: 0;
+}
+
+.form-row {
+    min-height: 20px;
+    line-height: 20px;
+    padding: 0 10px;
+    margin-top: 5px;
+}
+
+.form-row p {
+    text-align: right;
+    font-style: italic;    
+    line-height: 18px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.no-border-top {
+    border-top: none !important;
+}
+
+.no-border-bottom {
+    border-bottom: none !important;
+}
+
+.no-border-left {
+    border-left: none !important;
+}
+
+.no-border-right {
+    border-right: none !important;
+}
+
+.italic {
+    font-style: italic;
+}
